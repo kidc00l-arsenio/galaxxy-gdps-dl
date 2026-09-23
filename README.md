@@ -1,2 +1,2 @@
 # galaxxy-gdps-dl
-a
+galaxxy gdps demonlist <3
